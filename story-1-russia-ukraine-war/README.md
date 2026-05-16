@@ -146,3 +146,24 @@ story-1-russia-ukraine-war/
 └── references/
     └── sources.md
 ```
+## Project Goal
+
+The goal is to create a portfolio-quality data story that demonstrates:
+
+- Data collection from public sources
+- Data cleaning and organization
+- Exploratory data analysis
+- Clear visual storytelling
+- Responsible handling of uncertain estimates
+- Analytical writing for a general audience
+- GitHub documentation and reproducible project structure
+
+## Important Note on Uncertainty
+
+Many figures related to the Russia-Ukraine war are contested, incomplete, or based on estimates. Casualty numbers, equipment losses, foreign fighter counts, territorial control, and infrastructure damage can vary depending on the source.
+
+This project will avoid presenting uncertain figures as exact facts. Instead, it will compare credible sources, label estimates clearly, and explain uncertainty where needed.
+
+## Current Status
+
+This story is currently in the planning stage.
